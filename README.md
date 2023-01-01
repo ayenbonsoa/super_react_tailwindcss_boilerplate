@@ -1,6 +1,6 @@
 # React TypeScript Boilerplate with Tailwind CSS
 
-This repository provides a boilerplate for quickly starting development of a React application using TypeScript and Tailwind CSS.
+This repository provides a boilerplate for quickly starting development of a React application using TypeScript and Tailwind CSS based on Vite powerful rendering engine.
 
 ## Features
 
@@ -17,16 +17,19 @@ To get started with this boilerplate, follow these steps:
 ```bash
 git clone https://github.com/blacksamouraii/super_react_tailwindcss_boilerplate.git
 ```
+
 2. Install dependencies:
 
 ```bash
 npm install
 ```
+
 3. Start the development server:
 
 ```bash
 npm run start
 ```
+
 This will start a development server and open the application in your default browser. Any changes you make to the code will be automatically reflected in the browser.
 
 ## Build and Deployment
